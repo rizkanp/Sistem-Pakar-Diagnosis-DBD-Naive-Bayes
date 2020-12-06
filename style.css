@@ -1,0 +1,35 @@
+@font-face
+{
+font-family: myFirstFont;
+src: url('AMPERSAND.TTF'),
+     url('AMPERSAND.eot'); /* IE9+ */
+}
+
+.ampersand
+{
+font-family:ampersand;
+}
+
+table {margin: auto;font-size: 12px;}
+.table{border: 1px solid #999; background:#FFF; font-size:16px; text-align:center;}
+table th tr {margin: auto; text-align: center;}
+table td{text-align: center;}
+img {float: left;}
+.clearfooter {height: 100px;}
+.addtabel {margin: auto; alignment-adjust: central;}
+
+
+a:link {color:#787878; text-decoration:none}    /* unvisited link */
+a:visited {color:#5A5A5A;}  /*visited link */
+a:hover {color:#000; text-decoration:none}   /* mouse over link */
+a:active {color:#5A5A5A;}  /* selected link */
+
+.menu {
+      margin-bottom: 5px;
+      border: 1px solid #969696;
+      text-align: center
+}
+.menu:hover {border: 1px solid #000000;}
+.row{
+  margin-right:0px !important;
+}
